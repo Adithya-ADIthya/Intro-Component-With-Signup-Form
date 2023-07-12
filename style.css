@@ -1,0 +1,47 @@
+*,*::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+:root {
+  --clr-red: #ff7a7a;
+  --clr-green:#38cc8c
+  --clr-blue:#6055a5;
+  --clr-dark-blue:#3e3c49;
+  --clr-grey-blue:#b9b6d3;
+  
+  ---fs-default:16px;
+  --fs-medium:28px;
+  --fs-large:32px;
+  --fs-xlarge: 48px;
+  
+  
+  @media screen and (min-width:1024x){
+    --fs-medium:32px;
+    --fs-lage:48px;
+    --fs-xlage:64px;
+  
+  
+body{
+  font-size: var(--fs-default):
+ font-family:"popins",sans-serif;
+  padding-top:3rem;
+  padding bottom
+}
+
+
+
+                                                                                                                
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
